@@ -7,7 +7,7 @@
   <a href="https://instagram.com/himanshu.gohil18"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" /></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" width="100%">
+
 
 ## 👨‍💻 About Me
 
@@ -18,9 +18,9 @@
 💻 Working on **MERN Stack Projects**  
 📚 Always exploring and improving my tech skills  
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/clean.png" width="100%">
 
-## ⚡ Tech Stack (Animated Icons — Mixed, One Row)
+
+## ⚡ Tech Stack 
 
 <p align="center">
 
@@ -28,7 +28,7 @@
 
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
 
 ## 📊 GitHub Stats
 
@@ -41,7 +41,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshugohil18&theme=tokyonight" height="170" />
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/clean.png" width="100%">
+
 
 ## 📈 Activity Graph 
 
@@ -49,7 +49,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshugohil18&theme=react-dark&bg_color=000000&hide_border=true&area=true" width="100%"/>
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" width="100%">
+
 
 ## 🏆 Achievements
 
@@ -57,7 +57,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=himanshugohil18&theme=onedark&no-frame=true&margin-w=5" />
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/clean.png" width="100%">
+
 
 <p align="center">
  ✨ Thanks for visiting — let's build great stuff! ✨
