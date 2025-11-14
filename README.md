@@ -64,6 +64,14 @@
 
 ---
 
+## 📈 Activity Graph (Animated)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshugohil18&theme=react-dark&bg_color=000000&hide_border=true&area=true" width="100%"/>
+</p>
+
+---
+
 ## 🏆 Achievements
 
 <p align="center">
