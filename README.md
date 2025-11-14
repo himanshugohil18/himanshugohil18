@@ -25,30 +25,28 @@
 
 ## 🧰 Tech Stack
 
-<p align="left">
-  
-<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000" />
-<img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub%20Pages-181717?logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000" />
-<img src="https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
+<p align="center">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="45px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="45px" />
 
 </p>
 
----
 
 ## 📊 GitHub Stats
 
