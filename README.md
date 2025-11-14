@@ -1,9 +1,7 @@
-<!-- GitHub Profile README for Himanshu Gohil (himanshugohil18) -->
-
 <div align="center">
 
 # 👋 Hi, I'm **Himanshu Gohil**
-### MERN Stack Developer | JavaScript | AI & ML Enthusiast
+### MERN Stack Practitioner | DevOps Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com)
@@ -13,27 +11,38 @@
 
 ---
 
-## 🧭 About Me
-- 🔭 I’m currently working on **MERN + AI integrated projects**
-- 🌱 Learning **DSA (Java), System Design, and LangChain**
-- 🚀 My goal: Become a **FAANG-level Software Engineer**
-- 💻 Exploring **Full Stack + AI SaaS Projects**
+## 👨‍💻 About Me
+
+🎓 **BCA Graduate**  
+🎓 **Currently pursuing MCA at Parul University**  
+
+🚀 **DevOps Enthusiast**  
+⚙️ Interested in **CI/CD, Cloud Computing, Docker, Kubernetes, Linux, and Automation**  
+📚 Always learning and exploring new technologies  
+💡 Passionate about building **efficient workflows & modern infrastructure**
 
 ---
 
 ## 🧰 Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-181717?logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000)
+![Shell Script](https://img.shields.io/badge/-Shell_Script-121011?logo=gnu-bash&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
 
 ---
 
@@ -58,5 +67,5 @@
 
 ## 🐍 Contribution Snake (optional)
 ```md
-<!-- Enable this after adding the GitHub Action -->
+<!-- Enable after adding GitHub Action -->
 ![snake](https://github.com/himanshugohil18/himanshugohil18/blob/output/snake.svg)
