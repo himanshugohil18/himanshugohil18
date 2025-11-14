@@ -3,9 +3,10 @@
 # 👋 Hi, I'm **Himanshu Gohil**
 ### MERN Stack Practitioner | DevOps Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com)
-[![Mail](https://img.shields.io/badge/Email-himanshugohil18%40gmail.com-red?style=flat&logo=gmail)](mailto:himanshugohil18@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshugohil4)
+[![X](https://img.shields.io/badge/X_(Twitter)-000000?logo=x&logoColor=white)](https://x.com/himanshu_g4)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/himanshu.gohil18)
+[![Mail](https://img.shields.io/badge/Email-himanshugohil828%40gmail.com-red?style=flat&logo=gmail)](mailto:himanshugohil828@gmail.com)
 
 </div>
 
@@ -61,11 +62,15 @@
 ---
 
 ## 🏆 GitHub Achievements
+
 ![](https://github-profile-trophy.vercel.app/?username=himanshugohil18&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
-## 🐍 Contribution Snake (optional)
-```md
-<!-- Enable after adding GitHub Action -->
-![snake](https://github.com/himanshugohil18/himanshugohil18/blob/output/snake.svg)
+## 📌 Featured Projects  
+(Add after pinning your repositories)
+
+- **MERN eCommerce App**  
+- **DevOps CI/CD Pipeline Project**  
+- **Node.js API + MongoDB**  
+- **React Portfolio Website**
