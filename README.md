@@ -13,7 +13,6 @@
 
 🎓 **BCA Graduate**  
 🎓 **Pursuing MCA at Parul University**  
-
 🚀 Passionate about **DevOps, Cloud, CI/CD, Automation**  
 ⚙️ Learning **Docker, Kubernetes, Linux, AWS**  
 💻 Working on **MERN Stack Projects**  
