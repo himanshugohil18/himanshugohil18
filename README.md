@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" width="100%" />
+</p>
+
 <div align="center">
 
 # 👋 Hi, I'm **Himanshu Gohil**
@@ -11,14 +15,22 @@
 
 ---
 
+## 👁️ Visitors & Profile Stats
+
+![Visitors](https://komarev.com/ghpvc/?username=himanshugohil18&color=blue)
+![Profile Views](https://gpvc.arturio.dev/himanshugohil18)
+
+---
+
 ## 👨‍💻 About Me
 
 🎓 **BCA Graduate**  
 🎓 **Currently pursuing MCA at Parul University**  
+
 🚀 **DevOps Enthusiast**  
-⚙️ Interested in **CI/CD, Cloud Computing, Docker, Kubernetes, Linux, and Automation**  
-📚 Always learning and exploring new technologies  
-💡 Passionate about building **efficient workflows & modern infrastructure**
+⚙️ Focused on **CI/CD, Cloud Computing, Docker, Kubernetes, Linux, and Automation**  
+📚 Continuously learning modern technologies  
+💡 Passionate about building **efficient workflows & scalable infrastructure**
 
 ---
 
@@ -59,7 +71,21 @@
 
 ---
 
-## 🏆 GitHub Achievements
+## 📈 Activity Graph
+
+![Himanshu's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=himanshugohil18&theme=react-dark&hide_border=true)
+
+---
+
+## ⌨️ Terminal Typing Animation
+
+<p align="center">
+  <img src="assets/typing.gif" width="600" />
+</p>
+
+---
+
+## 🏆 Achievements
 
 ![](https://github-profile-trophy.vercel.app/?username=himanshugohil18&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
