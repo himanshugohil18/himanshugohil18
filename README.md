@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720_1280.jpg" width="55%" />
-</p>
-
-
 
 
 
@@ -76,15 +71,7 @@
 
 ---
 
-## 📌 Featured Projects
-
-- **MERN eCommerce App**  
-- **DevOps CI/CD Pipeline Project**  
-- **Node.js REST API + MongoDB**  
-- **React Portfolio Website**
-
----
 
 <p align="center">
-  ✨ *Thanks for visiting my profile!* ✨  
+ ✨ Thanks for visiting — let's build great stuff! ✨
 </p>
