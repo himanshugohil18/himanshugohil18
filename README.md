@@ -15,7 +15,6 @@
 
 🎓 **BCA Graduate**  
 🎓 **Currently pursuing MCA at Parul University**  
-
 🚀 **DevOps Enthusiast**  
 ⚙️ Interested in **CI/CD, Cloud Computing, Docker, Kubernetes, Linux, and Automation**  
 📚 Always learning and exploring new technologies  
