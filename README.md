@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" width="100%" />
+  <img src="https://images.unsplash.com/photo-1555949963-aa79dcee981d?auto=format&fit=crop&w=1350&q=80" width="100%" />
 </p>
 
 <div align="center">
@@ -12,13 +12,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/himanshu.gohil18)
 
 </div>
-
----
-
-## 👁️ Visitors & Profile Stats
-
-![Visitors](https://komarev.com/ghpvc/?username=himanshugohil18&color=blue)
-![Profile Views](https://gpvc.arturio.dev/himanshugohil18)
 
 ---
 
@@ -68,20 +61,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshugohil18&layout=compact&theme=radical" height="180" />
 
 </div>
-
----
-
-## 📈 Activity Graph
-
-![Himanshu's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=himanshugohil18&theme=react-dark&hide_border=true)
-
----
-
-## ⌨️ Terminal Typing Animation
-
-<p align="center">
-  <img src="assets/typing.gif" width="600" />
-</p>
 
 ---
 
