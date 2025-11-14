@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1350&q=80" width="100%" height="250px" style="object-fit: cover;" />
+  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1350&q=80" width="50%" />
 </p>
+
 
 <h1 align="center">👋 Hi, I'm <strong>Himanshu Gohil</strong></h1>
 <h3 align="center">MERN Stack Practitioner | DevOps Enthusiast</h3>
