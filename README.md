@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1518773553398-650c184e0bb3?auto=format&fit=crop&w=1350&q=80" width="70%" />
+  <img src="https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720_1280.jpg" width="70%" />
 </p>
+
 
 
 
