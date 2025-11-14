@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1350&q=80" width="50%" />
-</p>](https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1350&q=80
-)
+  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1350&q=80" width="70%" />
+</p>
 
 
 <h1 align="center">👋 Hi, I'm <strong>Himanshu Gohil</strong></h1>
