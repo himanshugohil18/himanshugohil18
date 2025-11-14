@@ -1,5 +1,10 @@
-<h1 align="center">👋 Hi, I'm <strong>Himanshu Gohil</strong></h1>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" />
+  Hi, I'm <strong>Himanshu Gohil</strong>
+</h1>
+
 <h3 align="center">MERN Stack Practitioner | DevOps Enthusiast</h3>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/himanshugohil4"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
