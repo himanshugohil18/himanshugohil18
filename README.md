@@ -3,7 +3,7 @@
   Hi, I'm <strong>Himanshu Gohil</strong>
 </h1>
 
-<h3 align="center">MERN Stack Practitioner | DevOps Enthusiast</h3>
+<h3 align="center"> DevOps Enthusiast</h3>
 
 
 <p align="center">
