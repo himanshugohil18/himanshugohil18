@@ -51,10 +51,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshugohil18&theme=react-dark&area=true&hide_border=true" width="100%" />
 
   <!-- Backup mirror (auto switches if above fails) -->
-  <br/>
-  <img src="https://github-readme-activity-graph-mu.vercel.app/graph?username=himanshugohil18&theme=react-dark&area=true&hide_border=true" width="100%" />
-
-</p>
 
 ---
 
