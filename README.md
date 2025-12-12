@@ -43,7 +43,7 @@
 
 ---
 
-## 🌟 Contribution Graph (Fixed & Working)
+## 🌟 Contribution Graph 
 
 <p align="center">
 
