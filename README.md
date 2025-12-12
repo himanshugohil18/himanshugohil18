@@ -43,14 +43,33 @@
 
 ---
 
-## 🌟 Contribution Graph 
+## 📊 GitHub Overview & Stats
 
 <p align="center">
 
-  <!-- Primary stable mirror -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshugohil18&theme=react-dark&area=true&hide_border=true" width="100%" />
+  <!-- Stats -->
+  <img height="170" src="https://github-readme-stats-kappa-ivory.vercel.app/api?username=himanshugohil18&show_icons=true&theme=tokyonight&rank_icon=github" />
 
-  <!-- Backup mirror (auto switches if above fails) -->
+  <!-- Top Languages -->
+  <img height="170" src="https://github-readme-stats-kappa-ivory.vercel.app/api/top-langs/?username=himanshugohil18&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.app?user=himanshugohil18&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌟 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshugohil18&theme=react-dark&area=true&hide_border=true" width="100%" />
+</p>
 
 ---
 
@@ -61,8 +80,6 @@
 - ☁ **Cloud Deployments** — Dockerized apps on EC2  
 
 ---
-
-## 🙌 Thanks for Visiting!
 
 <p align="center">
 ✨ Let's build something amazing together! ✨  
