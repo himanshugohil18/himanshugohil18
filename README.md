@@ -3,7 +3,7 @@
   Hi, I'm <strong>Himanshu Gohil</strong> 👋
 </h1>
 
-<h3 align="center">DevOps Enthusiast </h3>
+<h3 align="center">DevOps Enthusiast | MERN Stack Practitioner</h3>
 
 ---
 
@@ -12,10 +12,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/himanshugohil4" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45px" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://x.com/himanshu_g4" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="45px" />
   </a>
   &nbsp;&nbsp;
   <a href="https://instagram.com/himanshu.gohil18" target="_blank">
@@ -29,16 +25,16 @@
 
 - 🎓 BCA Graduate | Pursuing MCA @ Parul University  
 - 🚀 Passionate about **DevOps, Cloud, CI/CD & Automation**  
-- 🐳 Learning **Docker, Kubernetes, Linux, AWS**  
-- 💻 Building MERN Stack Projects  
-- 🔥 Motivated to grow as a Software Engineer  
+- 🐳 Working with **Docker, Kubernetes, Linux, AWS**  
+- 💻 Building **MERN Stack & DevOps Projects**  
+- 🔥 Focused on becoming a strong **DevOps Engineer**
 
 ---
 
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python,react,nodejs,express,mongodb,git,github,docker,kubernetes,linux,bash,aws,terraform,jenkins,githubactions" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,git,github,docker,docker-compose,kubernetes,helm,jenkins,githubactions,argocd,terraform,ansible,aws,prometheus,grafana,trivy,nginx,bash,python,mongodb" />
 </p>
 
 ---
@@ -46,13 +42,8 @@
 ## 📊 GitHub Overview & Stats
 
 <p align="center">
-
-  <!-- GitHub Stats -->
   <img height="170" src="https://github-readme-stats-kappa-ivory.vercel.app/api?username=himanshugohil18&show_icons=true&theme=tokyonight&rank_icon=github" />
-
-  <!-- Top Languages -->
   <img height="170" src="https://github-readme-stats-kappa-ivory.vercel.app/api/top-langs/?username=himanshugohil18&layout=compact&theme=tokyonight" />
-
 </p>
 
 ---
@@ -75,12 +66,12 @@
 
 ## 🔥 Featured Projects
 
-- 🚀 **DevOps CI/CD Pipeline** — GitHub Actions + Docker + AWS  
-- 🌐 **MERN Application** — Auth + CRUD + Optimized Backend  
-- ☁ **Cloud Deployments** — Dockerized apps on AWS EC2  
+- 🚀 **DevOps CI/CD Pipeline** — GitHub Actions + Docker + Kubernetes + AWS  
+- 🌐 **MERN Application** — Auth, CRUD, Secure Backend  
+- ☁ **Cloud Infrastructure** — Terraform + Ansible on AWS  
 
 ---
 
 <p align="center">
-✨ Let's build something amazing together! ✨  
+✨ Let’s build scalable and reliable systems together! ✨  
 </p>
