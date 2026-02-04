@@ -30,12 +30,12 @@
 - 🔥 Focused on becoming a strong **DevOps Engineer**
 
 ---
-
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,git,github,docker,docker-compose,kubernetes,helm,jenkins,githubactions,argocd,terraform,ansible,aws,prometheus,grafana,trivy,nginx,bash,python,mongodb" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python,bash,nodejs,express,mongodb,linux,ubuntu,git,github,docker,kubernetes,helm,jenkins,githubactions,argocd,terraform,ansible,aws,prometheus,grafana,trivy,nginx" />
 </p>
+
 
 ---
 
