@@ -33,7 +33,7 @@
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python,bash,nodejs,express,mongodb,linux,ubuntu,git,github,docker,kubernetes,helm,jenkins,githubactions,argocd,terraform,ansible,aws,prometheus,grafana,trivy,nginx" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python,bash,nodejs,express,mongodb,linux,ubuntu,git,github,docker,kubernetes,jenkins,githubactions,terraform,ansible,aws,prometheus,grafana,nginx" />
 </p>
 
 
