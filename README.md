@@ -3,7 +3,7 @@
   Hi, I'm <strong>Himanshu Gohil</strong> 👋
 </h1>
 
-<h3 align="center">DevOps Enthusiast | MERN Stack Practitioner</h3>
+<h3 align="center">DevOps Enthusiast </h3>
 
 ---
 
@@ -38,7 +38,7 @@
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,js,java,python,react,nodejs,express,mongodb,git,githubactions,vercel,netlify,linux,bash,docker,kubernetes,aws" width="100%" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python,react,nodejs,express,mongodb,git,github,docker,kubernetes,linux,bash,aws,terraform,jenkins,githubactions" />
 </p>
 
 ---
@@ -47,7 +47,7 @@
 
 <p align="center">
 
-  <!-- Stats -->
+  <!-- GitHub Stats -->
   <img height="170" src="https://github-readme-stats-kappa-ivory.vercel.app/api?username=himanshugohil18&show_icons=true&theme=tokyonight&rank_icon=github" />
 
   <!-- Top Languages -->
@@ -76,8 +76,8 @@
 ## 🔥 Featured Projects
 
 - 🚀 **DevOps CI/CD Pipeline** — GitHub Actions + Docker + AWS  
-- 🌐 **MERN App** — Authentication + CRUD + Optimized Backend  
-- ☁ **Cloud Deployments** — Dockerized apps on EC2  
+- 🌐 **MERN Application** — Auth + CRUD + Optimized Backend  
+- ☁ **Cloud Deployments** — Dockerized apps on AWS EC2  
 
 ---
 
