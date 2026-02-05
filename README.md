@@ -3,7 +3,7 @@
   Hi, I'm <strong>Himanshu Gohil</strong> 👋
 </h1>
 
-<h3 align="center">DevOps Enthusiast | MERN Stack Practitioner</h3>
+<h3 align="center">DevOps Enthusiast |  Cloud Intern</h3>
 
 ---
 
