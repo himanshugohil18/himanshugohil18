@@ -17,9 +17,9 @@ DevOps Enthusiast | Cloud & Automation Learner ☁️
 
 - 🎓 **BCA Graduate** | Pursuing **MCA @ Parul University**
 - 🚀 Passionate about **DevOps, Cloud Computing & Automation**
-- 🐳 Hands-on with **Docker, Kubernetes, Linux & AWS**
-- 💻 Building **MERN Stack + DevOps Projects**
-- ⚡ Learning **CI/CD, Infrastructure as Code & Monitoring**
+- 🐳 Hands-on experience with **Docker, Kubernetes, Linux & AWS**
+- ⚙️ Building **CI/CD pipelines and cloud infrastructure**
+- 📚 Continuously learning **DevOps tools and production practices**
 - 🎯 Goal: Become a **Professional DevOps Engineer**
 
 ---
@@ -42,12 +42,7 @@ DevOps Enthusiast | Cloud & Automation Learner ☁️
 
 ### 💻 Programming & Scripting
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,bash" />
-</p>
-
-### 🌐 Web Development
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,nodejs,express,mongodb" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,bash" />
 </p>
 
 ### ⚙️ DevOps & Cloud
@@ -59,6 +54,33 @@ DevOps Enthusiast | Cloud & Automation Learner ☁️
 <p>
 <img src="https://skillicons.dev/icons?i=prometheus,grafana,nginx,git,github,linux,ubuntu" />
 </p>
+
+---
+
+# 🚀 DevOps Journey
+
+✔ Learned **Linux fundamentals and shell scripting**  
+✔ Built containerized applications using **Docker**  
+✔ Managed container orchestration with **Kubernetes**  
+✔ Built **CI/CD pipelines** using GitHub Actions & Jenkins  
+✔ Provisioned infrastructure with **Terraform**  
+✔ Automated configuration using **Ansible**  
+✔ Implemented monitoring with **Prometheus & Grafana**  
+✔ Deploying applications on **AWS Cloud**
+
+---
+
+# 🔥 Current Focus
+
+🚀 Improving **Kubernetes production deployments**
+
+⚙️ Building **complete CI/CD pipelines**
+
+☁️ Learning **advanced AWS architecture**
+
+📊 Implementing **monitoring & observability**
+
+🔐 Exploring **DevSecOps practices**
 
 ---
 
@@ -87,33 +109,20 @@ DevOps Enthusiast | Cloud & Automation Learner ☁️
 
 ---
 
-# 🚀 Featured Projects
+# 🐍 Contribution Snake
 
-### 🔹 DevOps CI/CD Pipeline
-GitHub Actions + Docker + Kubernetes + AWS deployment pipeline.
-
-### 🔹 MERN Stack Application
-Secure backend with authentication, CRUD operations and deployment.
-
-### 🔹 Cloud Infrastructure Automation
-Provisioning AWS infrastructure using **Terraform + Ansible**.
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
-# ⚡ DevOps Tools I Use
+# 💡 DevOps Philosophy
 
-- Docker
-- Kubernetes
-- Jenkins
-- GitHub Actions
-- Terraform
-- Ansible
-- Prometheus
-- Grafana
-- AWS
+> "Automate everything, monitor everything, improve continuously."
 
 ---
 
 <p align="center">
-✨ <strong>“Building scalable, automated and reliable systems.”</strong> ✨
+✨ Building scalable, automated and reliable cloud systems ✨
 </p>
