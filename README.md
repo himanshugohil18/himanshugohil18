@@ -153,7 +153,7 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=himanshugohil18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=himanshugohil18&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshugohil18&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
@@ -163,7 +163,7 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.app?user=himanshugohil18&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=himanshugohil18&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -304,7 +304,7 @@ DevOps:
 # 👀 Visitor Counter
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/himanshugohil18/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=himanshugohil18&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
 </p>
 
 ---
