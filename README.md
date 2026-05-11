@@ -11,9 +11,11 @@
   <a href="https://github.com/himanshugohil18">
     <img src="https://img.shields.io/github/followers/himanshugohil18?label=Followers&style=for-the-badge&color=blue" />
   </a>
+  
   <a href="https://github.com/himanshugohil18">
     <img src="https://img.shields.io/github/stars/himanshugohil18?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow" />
   </a>
+
   <img src="https://komarev.com/ghpvc/?username=himanshugohil18&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
@@ -21,7 +23,15 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=DevOps+%7C+Cloud+%7C+Automation+Engineer;AWS+%7C+Docker+%7C+Kubernetes+Learner;Building+CI%2FCD+Pipelines+and+Cloud+Infrastructure;Always+Learning+New+Technologies+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=DevOps+Engineer+in+Progress+🚀;AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;Building+CI%2FCD+Pipelines+and+Cloud+Infrastructure;Linux+Lover+%F0%9F%90%A7+%7C+Automation+Enthusiast;Always+Learning+New+Technologies+⚡" />
+
+</div>
+
+---
+
+<div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Welcome%20to%20My%20Profile&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 </div>
 
@@ -29,7 +39,7 @@
 
 # 👨‍💻 About Me
 
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="coding" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - 🎓 **BCA Graduate** | Pursuing **MCA @ Parul University**
 - 🚀 Passionate about **DevOps, Cloud Computing & Automation**
@@ -41,6 +51,9 @@
 - 🔥 Exploring **DevSecOps & Site Reliability Engineering**
 - 🌱 Currently improving **Kubernetes & AWS Architecture**
 - ⚡ Fun fact: I love solving infrastructure and deployment challenges
+- 🧠 Learning how large-scale systems work behind the scenes
+- ☁️ Interested in Cloud-native technologies and automation
+- 🚀 Working toward becoming industry-ready with hands-on projects
 
 <br clear="both"/>
 
@@ -53,7 +66,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" width="55px"/>
   </a>
   &nbsp;&nbsp;
-  
+
   <a href="https://instagram.com/himanshu.gohil18" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="55px"/>
   </a>
@@ -108,7 +121,9 @@
 ✔ Implemented monitoring with **Prometheus & Grafana**  
 ✔ Deploying applications on **AWS Cloud**  
 ✔ Working on **real-world DevOps workflows**  
-✔ Learning **production-grade deployment strategies**
+✔ Learning **production-grade deployment strategies**  
+✔ Exploring **Infrastructure as Code (IaC)**  
+✔ Learning deployment automation and scalability concepts
 
 ---
 
@@ -121,6 +136,7 @@
 | Kubernetes Production Deployments | Complete CI/CD Pipelines | Advanced AWS Architecture |
 | DevSecOps Practices | Infrastructure Automation | Cloud Security |
 | Monitoring & Observability | Real-world Projects | Scalable Systems |
+| Helm & Kubernetes Networking | Automation Scripts | SRE Concepts |
 
 </div>
 
@@ -137,9 +153,9 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=himanshugohil18&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true"/>
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshugohil18&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=himanshugohil18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshugohil18&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -182,6 +198,8 @@
 | 📊 Grafana | Monitoring & Visualization |
 | 🔥 Prometheus | Metrics & Monitoring |
 | 🤖 GitHub Actions | Automation Workflows |
+| 🐧 Linux | System Administration |
+| 🔐 Ansible | Configuration Management |
 
 </div>
 
@@ -198,3 +216,103 @@ DevOps:
   - GitHub Actions Automation
   - Linux Administration
   - Monitoring & Observability
+  - Docker Optimization
+  - Cloud Security
+  - DevSecOps Practices
+```
+
+---
+
+# 🧰 Dev Environment
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visualstudiocode"/>
+<img src="https://img.shields.io/badge/OS-Ubuntu-orange?style=for-the-badge&logo=ubuntu"/>
+<img src="https://img.shields.io/badge/Shell-Bash-black?style=for-the-badge&logo=gnubash"/>
+<img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws"/>
+
+</p>
+
+---
+
+# ⏳ Coding Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himanshugohil18&theme=tokyonight"/>
+</p>
+
+---
+
+# 📊 GitHub Summary
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=himanshugohil18&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=himanshugohil18&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=himanshugohil18&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=himanshugohil18&theme=tokyonight&utcOffset=5.5"/>
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Master Kubernetes
+- ✅ Build Production-grade CI/CD Pipelines
+- ✅ Become AWS Certified
+- ✅ Contribute to Open Source
+- ✅ Deploy Scalable Cloud Infrastructure
+- ✅ Learn Advanced DevSecOps
+- ✅ Build Real-world DevOps Projects
+- ✅ Strengthen Linux & Networking Concepts
+
+---
+
+# 💡 DevOps Philosophy
+
+<div align="center">
+
+> ### "Automate everything, monitor everything, improve continuously." 🚀
+
+</div>
+
+---
+
+# 🧠 Quote I Believe In
+
+<div align="center">
+
+### ⚡ "Consistency and continuous learning build great engineers."
+
+</div>
+
+---
+
+# ☕ Support Me
+
+<p align="center">
+  <a href="https://github.com/himanshugohil18">
+    <img src="https://img.shields.io/badge/Follow%20Me-GitHub-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+# 👀 Visitor Counter
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/himanshugohil18/count.svg" />
+</p>
+
+---
+
+<div align="center">
+
+### ✨ Building scalable, automated and reliable cloud systems ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+
+</div>
