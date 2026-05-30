@@ -1,4 +1,3 @@
-````md
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">
   Hi, I'm <strong>Himanshu Gohil</strong> 👋
@@ -91,80 +90,47 @@
 
 # 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="33%">
-
-### 🌍 Wanderlust Deployment
+## 🌍 Wanderlust Deployment
 **DevSecOps + GitOps + AWS EKS**
 
-✅ Containerized full-stack app using Docker  
-✅ CI/CD automation with Jenkins & GitHub Actions  
-✅ Deployed on **AWS EKS**  
-✅ Infrastructure automation & monitoring
+- Containerized full-stack app using Docker  
+- CI/CD automation with Jenkins & GitHub Actions  
+- Deployed on **AWS EKS**  
+- Infrastructure automation & monitoring
 
-**Tech Used:**  
-`Docker` `Kubernetes` `AWS` `Jenkins` `GitOps`
+**Tech:** `Docker` `Kubernetes` `AWS` `Jenkins` `GitOps`
 
-</td>
+---
 
-<td width="33%">
+## ☁️ AWS Infrastructure Automation
+**Terraform (Infrastructure as Code)**
 
-### ☁️ AWS Infrastructure Automation
-**Terraform (IaC)**
+- Provisioned AWS infrastructure  
+- Automated networking & resources  
+- Followed Infrastructure as Code best practices
 
-✅ Provisioned AWS infrastructure  
-✅ Automated networking & resources  
-✅ Used **Infrastructure as Code** best practices
+**Tech:** `Terraform` `AWS` `Linux`
 
-**Tech Used:**  
-`Terraform` `AWS` `Linux`
+---
 
-</td>
-
-<td width="33%">
-
-### ⚡ SkillPulse Deployment
+## ⚡ SkillPulse Deployment
 **DevSecOps + GitOps**
 
-✅ Automated deployment pipeline  
-✅ Security scanning integration  
-✅ CI/CD implementation
+- Automated deployment pipeline  
+- Security scanning integration  
+- CI/CD implementation
 
-**Tech Used:**  
-`Docker` `Kubernetes` `GitHub Actions`
-
-</td>
-</tr>
-</table>
+**Tech:** `Docker` `Kubernetes` `GitHub Actions`
 
 ---
 
 # 🔥 Current Focus
-
-<div align="center">
 
 | 🚀 Learning | ⚙️ Building | ☁️ Exploring |
 |---|---|---|
 | Kubernetes Production | Complete CI/CD Pipelines | Advanced AWS |
 | DevSecOps | Infrastructure Automation | Cloud Security |
 | Helm & Networking | Real-world Projects | SRE Concepts |
-
-</div>
-
----
-
-# 🛠️ Certifications & Learning
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/AWS-Learning-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-Learning-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terraform-IaC-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-Advanced-black?style=for-the-badge&logo=linux"/>
-<img src="https://img.shields.io/badge/DevOps-Engineering-blue?style=for-the-badge"/>
-
-</p>
 
 ---
 
@@ -183,10 +149,6 @@
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshugohil18&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-# 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=himanshugohil18&theme=tokyonight&hide_border=true"/>
@@ -224,33 +186,20 @@ DevOps:
   - Docker Optimization
   - Cloud Security
   - DevSecOps Practices
-````
-
----
-
-# 💻 Workspace Setup
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visualstudiocode"/>
-<img src="https://img.shields.io/badge/OS-Ubuntu-orange?style=for-the-badge&logo=ubuntu"/>
-<img src="https://img.shields.io/badge/Shell-Bash-black?style=for-the-badge&logo=gnubash"/>
-<img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws"/>
-
-</p>
+```
 
 ---
 
 # 🎯 2026 Goals
 
-* ✅ Master Kubernetes
-* ✅ Build Production-grade CI/CD Pipelines
-* ✅ Become AWS Certified
-* ✅ Contribute to Open Source
-* ✅ Deploy Scalable Cloud Infrastructure
-* ✅ Learn Advanced DevSecOps
-* ✅ Build Real-world DevOps Projects
-* ✅ Strengthen Linux & Networking Concepts
+- ✅ Master Kubernetes
+- ✅ Build Production-grade CI/CD Pipelines
+- ✅ Become AWS Certified
+- ✅ Contribute to Open Source
+- ✅ Deploy Scalable Cloud Infrastructure
+- ✅ Learn Advanced DevSecOps
+- ✅ Build Real-world DevOps Projects
+- ✅ Strengthen Linux & Networking Concepts
 
 ---
 
@@ -271,4 +220,3 @@ DevOps:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
 
 </div>
-```
