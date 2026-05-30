@@ -354,3 +354,49 @@ DevOps:
 </div>
 </p>
 
+
+# 🛠️ DevOps Arsenal
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+</p>
+
+# 🧠 Daily Dev Card
+
+<p align="center">
+  <img src="https://github.com/himanshugohil18/himanshugohil18/blob/main/devcard.svg" width="400" alt="Dev Card"/>
+</p>
+
+
+# 🎵 Currently Vibing To
+
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31w6h2k5zv4xk2u7o7n5h5x2j4wa&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false"/>
+</p>
+
+
+# 💭 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+
+# 📈 GitHub Metrics
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himanshugohil18&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=DevOps+Engineer+In+Progress+🚀;AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;Building+Scalable+Cloud+Infrastructure;CI%2FCD+%7C+GitOps+%7C+DevSecOps;Always+Learning+Something+New+⚡"/>
+</p>
+
