@@ -232,11 +232,8 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
 
----
-
-# 📚 Currently Learning
+  # 📚 Currently Learning
 
 ```yaml
 DevOps:
@@ -250,10 +247,25 @@ DevOps:
   - Docker Optimization
   - Cloud Security
   - DevSecOps Practices
+```
 
-💻 Workspace Setup
-<p align="center"> <img src="https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visualstudiocode"/> <img src="https://img.shields.io/badge/OS-Ubuntu-orange?style=for-the-badge&logo=ubuntu"/> <img src="https://img.shields.io/badge/Shell-Bash-black?style=for-the-badge&logo=gnubash"/> <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws"/> </p>
+---
 
+# 💻 Workspace Setup
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visualstudiocode"/>
+
+<img src="https://img.shields.io/badge/OS-Ubuntu-orange?style=for-the-badge&logo=ubuntu"/>
+
+<img src="https://img.shields.io/badge/Shell-Bash-black?style=for-the-badge&logo=gnubash"/>
+
+<img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws"/>
+
+</p>
+
+---
 
 # 🎯 2026 Goals
 
@@ -340,6 +352,5 @@ DevOps:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
 
 </div>
-</table>
+</p>
 
----
