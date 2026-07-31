@@ -1,207 +1,106 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">
-  Hi, I'm <strong>Himanshu Gohil</strong> 👋
-</h1>
 
-<h3 align="center">
-🚀 DevOps Enthusiast | ☁️ Cloud & Automation Learner | ⚡ Future DevOps Engineer
-</h3>
+# Hi there 👋 I'm Himanshu Gohil
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=DevOps+Engineer+in+Progress+🚀;AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;Building+CI%2FCD+Pipelines+and+Cloud+Infrastructure;Linux+Lover+🐧+%7C+Automation+Enthusiast;Always+Learning+New+Technologies+⚡" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=DevOps+Engineer+%F0%9F%9A%80;AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+Automation+Enthusiast;Always+Learning+Cloud+Native+Technologies" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=himanshugohil18&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-
-  <img src="https://img.shields.io/github/followers/himanshugohil18?label=Followers&style=for-the-badge&logo=github"/>
-
-  <img src="https://img.shields.io/github/stars/himanshugohil18?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Himanshu%20Gohil&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20In%20Progress%20🚀&descAlignY=55"/>
+  <a href="https://github.com/himanshugohil18"><img src="https://img.shields.io/github/followers/himanshugohil18?style=for-the-badge"></a>
+  <img src="https://komarev.com/ghpvc/?username=himanshugohil18&style=for-the-badge">
+  <a href="https://www.linkedin.com/in/himanshugohil4"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# 💫 About Me
 
-<img align="right" alt="coding" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-🎓 **BCA Graduate** | Pursuing **MCA @ Parul University**  
-
-🚀 Passionate about **DevOps, Cloud Computing & Automation**  
-
-🐳 Hands-on experience with **Docker, Kubernetes, Linux & AWS**  
-
-⚙️ Building **CI/CD pipelines, cloud infrastructure & automation workflows**  
-
-🔥 Exploring **DevSecOps & Site Reliability Engineering (SRE)**  
-
-☁️ Interested in **Cloud-native technologies & scalable systems**  
-
-📚 Continuously learning **production-grade DevOps practices**  
-
-🎯 Goal: Become a **Professional DevOps Engineer**
+- 🎓 MCA Student (Parul University)
+- ☁️ Passionate about DevOps & Cloud Engineering
+- 🐳 Hands-on with Docker, Kubernetes, AWS, Jenkins & Terraform
+- ⚙️ Building CI/CD pipelines and cloud infrastructure
+- 🌱 Currently preparing for Kubernetes (CKA) & AWS Solutions Architect
+- 💼 Looking for DevOps / Cloud Engineer opportunities
 
 ---
 
-# 🌐 Connect With Me
+# 🛠 Tech Stack
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/himanshugohil4" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="55px"/>
-  </a>
-  
-  <a href="mailto:himanshu.gohil.in1@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="55px"/>
-  </a>
+## Cloud
+AWS
 
-  <a href="https://instagram.com/himanshu.gohil18" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="55px"/>
-  </a>
+## DevOps
+Docker • Kubernetes • Jenkins • GitHub Actions • Terraform • Ansible
 
-  <a href="https://github.com/himanshugohil18" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="55px"/>
-  </a>
-</p>
+## Monitoring
+Prometheus • Grafana
 
----
+## OS & Tools
+Linux • Ubuntu • Git • Bash • Nginx • VS Code
 
-# ⚡ Tech Stack
-
-### 💻 Programming & Scripting
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,bash" />
-</p>
-
-### ⚙️ DevOps & Cloud
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,terraform,ansible,aws" />
-</p>
-
-### 📊 Monitoring & Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=prometheus,grafana,linux,git,github,nginx,ubuntu,vscode" />
-</p>
+## Languages
+Python • Bash • C • C++
 
 ---
 
 # 🚀 Featured Projects
 
-<table>
-<tr>
+### 🤖 CareerOS – AI Job Application Agent
+AI-powered career platform with resume parsing, AI matching, job discovery and application workflow.
 
-<td width="33%">
+### ☸ Kubernetes Masterclass
+100+ hands-on Kubernetes labs covering Pods, Deployments, Services, ConfigMaps, Secrets, Volumes, Networking and more.
 
-## 🌍 Wanderlust Deployment
+### 🚀 DevSecOps CI/CD Pipeline
+Jenkins + GitHub Actions + Trivy + SonarQube + Docker + Kubernetes.
 
-**DevSecOps + GitOps + AWS EKS**
+### ☁ AWS Infrastructure Automation
+Provision AWS infrastructure using Terraform following Infrastructure as Code best practices.
 
-✅ Containerized Full Stack App  
-✅ CI/CD with Jenkins & GitHub Actions  
-✅ Deployed on AWS EKS  
-✅ Monitoring & Automation
-
-**Tech Stack**
-
-`Docker` `Kubernetes` `AWS` `Jenkins` `GitOps`
-
-</td>
-
-<td width="33%">
-
-## ☁️ AWS Infrastructure Automation
-
-**Terraform Infrastructure as Code**
-
-✅ Automated AWS provisioning  
-✅ Infrastructure Automation  
-✅ Production-ready Architecture
-
-**Tech Stack**
-
-`Terraform` `AWS` `Linux`
-
-</td>
-
-<td width="33%">
-
-## ⚡ SkillPulse Deployment
-
-**DevSecOps + GitOps**
-
-✅ Automated Deployment Pipeline  
-✅ Security Scanning  
-✅ Kubernetes-based Deployment
-
-**Tech Stack**
-
-`Docker` `Kubernetes` `GitHub Actions`
-
-</td>
-
-</tr>
-
-# 🔥 Current Focus
-
-<div align="center">
-
-| 🚀 Learning | ⚙️ Building | ☁️ Exploring |
-|---|---|---|
-| Kubernetes Production Deployments | Complete CI/CD Pipelines | Advanced AWS Architecture |
-| DevSecOps Practices | Infrastructure Automation | Cloud Security |
-| Helm & Kubernetes Networking | Real-world Projects | SRE Concepts |
-| Monitoring & Observability | Automation Scripts | Scalable Systems |
-
-</div>
+### 🐳 SkillPulse Deployment
+Containerized application deployed with Docker and Kubernetes.
 
 ---
 
-# 🛠️ Certifications & Learning
+# 📜 Certifications
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/AWS-Learning-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Kubernetes-Learning-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Terraform-IaC-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Linux-Advanced-black?style=for-the-badge&logo=linux"/>
-
-<img src="https://img.shields.io/badge/DevOps-Engineering-blue?style=for-the-badge"/>
-
-</p>
+- AWS Cloud
+- Kubernetes Learning
+- Terraform IaC
+- Linux
+- DevOps
 
 ---
 
-# 🏆 GitHub Achievements
+# 📚 Currently Learning
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=himanshugohil18&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7"/>
-</p>
+- Kubernetes Advanced Concepts
+- Helm
+- GitOps (ArgoCD)
+- AWS Solutions Architect
+- DevSecOps
+- SRE
+- Observability
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=himanshugohil18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshugohil18&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=himanshugohil18&show_icons=true&theme=tokyonight&hide_border=true">
+<img src="https://streak-stats.demolab.com?user=himanshugohil18&theme=tokyonight&hide_border=true">
 </p>
 
 <p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshugohil18&layout=compact&theme=tokyonight&hide_border=true">
+</p>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshugohil18&layout=compact&theme=tokyonight&hide_border=true"/>
+---
 
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=himanshugohil18&theme=tokyonight&no-frame=true&column=7">
 </p>
 
 ---
@@ -209,194 +108,28 @@
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshugohil18&theme=react-dark&area=true&hide_border=true"/>
-</p>
-
----
-
-# ⚡ Productivity Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himanshugohil18&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=himanshugohil18&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=himanshugohil18&theme=tokyonight"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-  # 📚 Currently Learning
-
-```yaml
-DevOps:
-  - Kubernetes Advanced Concepts
-  - Helm Charts
-  - AWS Solution Architect
-  - Terraform Best Practices
-  - GitHub Actions Automation
-  - Linux Administration
-  - Monitoring & Observability
-  - Docker Optimization
-  - Cloud Security
-  - DevSecOps Practices
-```
-
----
-
-# 💻 Workspace Setup
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visualstudiocode"/>
-
-<img src="https://img.shields.io/badge/OS-Ubuntu-orange?style=for-the-badge&logo=ubuntu"/>
-
-<img src="https://img.shields.io/badge/Shell-Bash-black?style=for-the-badge&logo=gnubash"/>
-
-<img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshugohil18&theme=tokyonight&hide_border=true">
 </p>
 
 ---
 
 # 🎯 2026 Goals
 
-<div align="center">
-
-| 🎯 Goal | 🚀 Progress |
-|---|---|
-| Master Kubernetes | 🟢 In Progress |
-| Build Production-grade CI/CD Pipelines | 🟢 In Progress |
-| Become AWS Certified | 🟡 Learning |
-| Contribute to Open Source | 🔵 Upcoming |
-| Deploy Scalable Cloud Infrastructure | 🟢 In Progress |
-| Learn Advanced DevSecOps | 🟡 Exploring |
-| Build Real-world DevOps Projects | 🟢 Ongoing |
-| Strengthen Linux & Networking Concepts | 🟢 Daily Practice |
-
-</div>
+- ✅ Master Kubernetes
+- ✅ Build Production CI/CD Pipelines
+- ✅ Become AWS Certified
+- ✅ Learn GitOps & DevSecOps
+- ✅ Contribute to Open Source
+- ✅ Land a DevOps Engineer Role
 
 ---
 
-# 🚀 DevOps Journey
+# 🌐 Connect With Me
 
-✔ Learned **Linux fundamentals & shell scripting**  
-✔ Built containerized applications using **Docker**  
-✔ Managed orchestration with **Kubernetes**  
-✔ Built **CI/CD pipelines** using Jenkins & GitHub Actions  
-✔ Provisioned infrastructure using **Terraform**  
-✔ Automated configurations with **Ansible**  
-✔ Implemented monitoring using **Prometheus & Grafana**  
-✔ Deploying applications on **AWS Cloud**  
-✔ Exploring **GitOps & DevSecOps workflows**  
-✔ Learning **production-grade deployment strategies**
+- GitHub: https://github.com/himanshugohil18
+- LinkedIn: https://linkedin.com/in/himanshugohil4
+- Email: himanshu.gohil.in1@gmail.com
 
 ---
 
-# ☕ Fun Zone
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
-</p>
-
----
-
-# ✨ Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
-
-# 💡 DevOps Philosophy
-
-<div align="center">
-
-> ### "Automate everything, monitor everything, improve continuously." 🚀
-
-</div>
-
----
-
-# 🧠 Quote I Believe In
-
-<div align="center">
-
-### ⚡ "Consistency and continuous learning build great engineers."
-
-</div>
-
----
-
-# 👀 Visitor Counter
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=himanshugohil18&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
-</p>
-
----
-
-<div align="center">
-
-### 🚀 Building Scalable, Automated & Reliable Cloud Systems ☁️
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
-
-</div>
-</p>
-
-
-# 🛠️ DevOps Arsenal
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-</p>
-
-# 🧠 Daily Dev Card
-
-<p align="center">
-  <img src="https://github.com/himanshugohil18/himanshugohil18/blob/main/devcard.svg" width="400" alt="Dev Card"/>
-</p>
-
-
-# 🎵 Currently Vibing To
-
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31w6h2k5zv4xk2u7o7n5h5x2j4wa&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false"/>
-</p>
-
-
-# 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
-
-# 📈 GitHub Metrics
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himanshugohil18&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=DevOps+Engineer+In+Progress+🚀;AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;Building+Scalable+Cloud+Infrastructure;CI%2FCD+%7C+GitOps+%7C+DevSecOps;Always+Learning+Something+New+⚡"/>
-</p>
-
+> **"Automate everything. Monitor everything. Improve continuously." 🚀**
