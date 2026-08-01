@@ -4,6 +4,18 @@
 
 <br>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&center=true&vCenter=true&width=700&lines=AWS+•+Docker+•+Kubernetes+•+Terraform;CI%2FCD+•+Linux+•+GitHub+Actions"/>
+
+<br><br>
+
+<a href="https://github.com/himanshugohil18?tab=followers">
+<img src="https://img.shields.io/github/followers/himanshugohil18?label=Followers&style=for-the-badge&logo=github&color=181717"/>
+</a>
+
+<a href="https://komarev.com/ghpvc/?username=himanshugohil18">
+<img src="https://komarev.com/ghpvc/?username=himanshugohil18&label=Profile%20Views&style=for-the-badge&color=2563EB"/>
+</a>
+
 <a href="https://www.linkedin.com/in/himanshugohil4">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -17,6 +29,8 @@
 </a>
 
 </div>
+
+---
 
 ---
 
