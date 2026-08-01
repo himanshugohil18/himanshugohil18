@@ -158,29 +158,23 @@ CI/CD pipeline using Jenkins, GitHub Actions, Docker, Trivy and Kubernetes.
 
 ## 🤝 Let's Connect
 
-<p align="center">
-
-<a href="mailto:himanshu.gohil.in1@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/himanshugohil4">
-<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/himanshugohil18">
-<img src="https://skillicons.dev/icons?i=github" width="48"/>
-</a>
-
-</p>
-
 <div align="center">
 
-⭐ Thanks for visiting my profile!
+<a href="mailto:himanshu.gohil.in1@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" height="55" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/himanshugohil4" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="55" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/himanshugohil18" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="55" />
+</a>
+
+<br><br>
+
+⭐ **Thanks for visiting my profile!**
 
 </div>
 
