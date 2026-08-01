@@ -326,3 +326,147 @@ Enterprise-style CI/CD pipeline integrating code quality, security scanning, con
 </div>
 
 ---
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=himanshugohil18&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=himanshugohil18&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshugohil18&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img width="54%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himanshugohil18&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=himanshugohil18&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshugohil18&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 💻 Development Workflow
+
+<div align="center">
+
+```text
+     💡 Idea
+        │
+        ▼
+   💻 Develop
+        │
+        ▼
+   🌿 Git & GitHub
+        │
+        ▼
+   🐳 Docker Build
+        │
+        ▼
+   ☸ Kubernetes
+        │
+        ▼
+ ⚙ GitHub Actions
+        │
+        ▼
+ ☁ Deploy on AWS
+        │
+        ▼
+📊 Monitor & Improve
+```
+
+</div>
+
+---
+
+# 🌟 What I Believe In
+
+<div align="center">
+
+| 🚀 Principle | 💡 Description |
+|:------------|:---------------|
+| ⚙️ Automate | Reduce repetitive work through automation |
+| 🔐 Secure | Build security into every stage of delivery |
+| 📈 Monitor | Measure everything and improve continuously |
+| 📦 Standardize | Infrastructure as Code and reusable pipelines |
+| 🤝 Collaborate | Enable developers with reliable platforms |
+
+</div>
+
+---
+
+# 🎯 Career Objective
+
+<div align="center">
+
+### DevOps Engineer • Cloud Engineer • Platform Engineering Enthusiast
+
+Passionate about building reliable cloud infrastructure, automating software delivery, and creating scalable systems using AWS, Kubernetes, Terraform, Docker, and CI/CD.
+
+Currently seeking opportunities to contribute to high-impact engineering teams while continuously learning cloud-native technologies.
+
+</div>
+
+---
+
+<div align="center">
+
+---
+
+### 🤝 Let's Connect
+
+<a href="https://www.linkedin.com/in/himanshugohil4">
+<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:himanshu.gohil.in1@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/himanshugohil18">
+<img src="https://skillicons.dev/icons?i=github" width="48"/>
+</a>
+
+<br><br>
+
+⭐ **Thanks for visiting my profile!**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F172A,50:2563EB,100:38BDF8"/>
+
+</div>
