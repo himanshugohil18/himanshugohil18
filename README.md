@@ -64,7 +64,7 @@ I'm an MCA student passionate about **DevOps** and **Cloud Engineering**.
 
 <td width="50%" valign="top">
 
-### 🤖 CareerOS
+### 🤖 CareerOS ( Private Repo )
 
 AI-powered career platform with resume parsing, AI job matching and application automation.
 
