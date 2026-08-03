@@ -64,7 +64,7 @@ I'm an MCA student passionate about **DevOps** and **Cloud Engineering**.
 
 <td width="50%" valign="top">
 
-### 🤖 CareerOS ( Private Repo )
+### 🤖 CareerOS 
 
 AI-powered career platform with resume parsing, AI job matching and application automation.
 
@@ -77,7 +77,7 @@ AI-powered career platform with resume parsing, AI job matching and application 
 <a href=https://github.com/himanshugohil18/careerosai-platform.git>
 <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
 </a>
-
+( Private Repo )
 </td>
 
 <td width="50%" valign="top">
